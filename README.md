@@ -277,18 +277,3 @@ eam-task-manager/
 
 Venugopal Ganji
  GitHub: [@Venu-Gopal04](https://github.com/Venu-Gopal04)
-
-
-📝 Assessment Requirements Checklist
-
-- ✅ Authentication (Signup/Login)
-- ✅ Project & team management
-- ✅ Task creation, assignment & status tracking
-- ✅ Dashboard (tasks, status, overdue)
-- ✅ REST APIs
-- ✅ PostgreSQL Database
-- ✅ Proper validations & relationships
-- ✅ Role-based access control (Admin/Member)
-- ✅ Deployed and live
-- ✅ GitHub repository
-- ✅ README
